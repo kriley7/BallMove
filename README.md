@@ -14,4 +14,4 @@ Edit the PyGameKeyMove program to implement the following ball move features:
 - Feel free to add some other features as desired! We talked in class a bit about modifying the
   ball to jump up and down when you press the space bar. This is more complicated. If you do
   add some features, be sure to describe them in the documentation for your code.
- 
+- When you are finished please be sure to commit and push your code!
