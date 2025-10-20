@@ -1,5 +1,7 @@
 # BallMove
-Edit the PyGameKeyMove program to implement the following ball move features:
+In this exercise, you will make some minor edits to an existing PyGame program to help
+you understand some of its features. Please be sure that you first pull the project to
+PyCharm or your IDE, then edit the PyGameKeyMove program to implement the following ball move features:
 - currently, the program allows you to move the ball off the screen. Edit the program
   so that the ball does not move past or over any of the edges. The full ball must be
   visible at all times (will require some calculation involving your program constants).
