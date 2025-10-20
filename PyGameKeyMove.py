@@ -1,4 +1,6 @@
-# pygame demo 3(b) - one image, continuous mode, move as long as a key is down
+# Based on pygame demo from Kalb book -- ball responds to continuous pressing of 
+# arrow keys. Modified to remove target rectangle (K Riley, 10/17/25)
+
 
 # 1 - Import packages
 import pygame
@@ -65,4 +67,5 @@ while True:
     pygame.display.update()
 
     # 12 - Slow things down a bit
+
     clock.tick(FRAMES_PER_SECOND)  # make pygame wait
