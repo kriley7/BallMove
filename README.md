@@ -19,5 +19,6 @@ to implement the following ball move features:
   add some features, be sure to describe them in the documentation for your code.
 - Documentation: You MUST add a header using the documentation style we discussed earlier, as well as
   some very brief line comments in any parts of the code you modified or added.
+  
 When you are finished please be sure to commit and push your code, then reply "Done" in the 
 assignment to indicate you are finished.
